@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bubblesort
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Bubblesort.\r\n\ \r\n\ @author\ Danny\r\n\ @version\ 0.9\r\n
+comment1.params=arr
+comment1.target=void\ bubbleSort(int[])
+comment2.params=arr
+comment2.target=void\ selectionSort(int[])
+comment3.params=
+comment3.target=Bubblesort()
+numComments=4
